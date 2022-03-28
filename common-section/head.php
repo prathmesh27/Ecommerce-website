@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8">
         <title>Ecommerce Hub</title>
-        <meta name="description" content="Morden Bootstrap HTML5 Template">
+        <meta name="description" content="Prathmesh Kori Ecommerce">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+        <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/fav.png">
         <!-- ======= All CSS Plugins here ======== -->
         <link rel="stylesheet" href="assets/css/plugins/swiper-bundle.min.css">
         <link rel="stylesheet" href="assets/css/plugins/glightbox.min.css">
