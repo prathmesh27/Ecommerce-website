@@ -10884,6 +10884,11 @@ details > summary::-webkit-details-marker {
         height: 4.5rem;
     }
 }
+@media (max-width: 992px){
+     .dek-no{
+        display:none;
+    }    
+}
 .newsletter__popup--subscribe__btn {
     width: 100%;
     height: 4rem;
@@ -10924,4 +10929,26 @@ details > summary::-webkit-details-marker {
         height: 300px !Important; 
         margin-top: 1rem;
     }
+
+}
+.cat_{
+
+    border-radius: 10px;
+    background-color: #efefef;
+    display: block;
+    padding: 45px 15px 30px;
+    height: 100%;
+    position: relative;
+    text-align: center;
+    transition: all .5s ease 0s;
+}
+.cat_:hover{
+    box-shadow: 0 4px 15px rgb(0 0 0 / 15%);
+}
+.cat_:hover img {
+    transform: rotateY(1turn);
+    transition: all .8s ease 0s;
+}
+.my_3{
+    margin:1.5rem 0 ;
 }

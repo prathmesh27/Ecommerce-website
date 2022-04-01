@@ -73,41 +73,77 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="swiper-slide ">
-                            <div class="hero__slider--items home1__slider--bg three">
-                                <div class="container-fluid">
-                                    <div class="row">
-                                        <div class="col-lg-6 offset-lg-6">
-                                            <div class="hero__slider--items__inner">
-                                                <div class="slider__content text-center">
-                                                    <p class="slider__content--desc desc1 mb-15"><img class="slider__text--shape__icon" src="assets/img/icon/text-shape-icon.png" alt="text-shape-icon"> New Collection</p>
-                                                    <h2 class="slider__content--maintitle h1">The Great Fashion <br>
-                                                        Collection 2022
-                                                    </h2>
-                                                    <p class="slider__content--desc desc2 d-sm-2-none mb-40">Up To 40% Off Final Sale Items. <br>
-                                                        Caught in the Moment!
-                                                    </p>
-                                                    <a class="primary__btn slider__btn" href="shop.php">
-                                                        Show Collection
-                                                        <svg class="slider__btn--arrow__icon" xmlns="http://www.w3.org/2000/svg" width="20.2" height="12.2" viewBox="0 0 6.2 6.2">
-                                                            <path d="M7.1,4l-.546.546L8.716,6.713H4v.775H8.716L6.554,9.654,7.1,10.2,9.233,8.067,10.2,7.1Z" transform="translate(-4 -4)" fill="currentColor"></path>
-                                                        </svg>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
                     <div class="swiper__nav--btn swiper-button-next"></div>
                     <div class="swiper__nav--btn swiper-button-prev"></div>
                 </div>
             </section>
             <!-- End slider section -->
-            <!-- Start product section -->
+
+            <!-- category -->
             <section class="product__section section--padding pt-0" style="margin-top: 5rem;">
+                <div class="container-fluid">
+                    <div class="section__heading text-center mb-50">
+                        <h2 class="section__heading--maintitle">Categories</h2>
+                    </div>
+                     <div class="product__section--inner">
+                                <div class="product__section--inner product__swiper--activation swiper">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                           <div class="cat_ ">
+                                               <img src="assets/img/product/Pr1.webp">
+                                           </div>
+                                           <h3 class="product__items--content__title h4 my_3 text-center"><a href="product-details.php">Category 1</a></h3>
+                                        </div>
+                                        <div class="swiper-slide">
+                                           <div class="cat_ ">
+                                               <img src="assets/img/product/Pr1.webp">
+                                           </div>
+                                           <h3 class="product__items--content__title h4 my_3 text-center"><a href="product-details.php">Category 1</a></h3>
+                                        </div>
+                                        <div class="swiper-slide">
+                                           <div class="cat_ ">
+                                               <img src="assets/img/product/Pr1.webp">
+                                           </div>
+                                           <h3 class="product__items--content__title h4 my_3 text-center"><a href="product-details.php">Category 1</a></h3>
+                                        </div>
+                                        <div class="swiper-slide">
+                                           <div class="cat_ ">
+                                               <img src="assets/img/product/Pr1.webp">
+                                           </div>
+                                           <h3 class="product__items--content__title h4 my_3 text-center"><a href="product-details.php">Category 1</a></h3>
+                                        </div>
+                                        <div class="swiper-slide">
+                                           <div class="cat_ ">
+                                               <img src="assets/img/product/Pr1.webp">
+                                           </div>
+                                           <h3 class="product__items--content__title h4 my_3 text-center"><a href="product-details.php">Category 1</a></h3>
+                                        </div>
+                                        <div class="swiper-slide">
+                                           <div class="cat_ ">
+                                               <img src="assets/img/product/Pr1.webp">
+                                           </div>
+                                           <h3 class="product__items--content__title h4 my_3 text-center"><a href="product-details.php">Category 1</a></h3>
+                                        </div>
+                                        <div class="swiper-slide">
+                                           <div class="cat_ ">
+                                               <img src="assets/img/product/Pr1.webp">
+                                           </div>
+                                           <h3 class="product__items--content__title h4 my_3 text-center"><a href="product-details.php">Category 1</a></h3>
+                                        </div>
+                                    </div>
+                                    <div class="swiper__nav--btn swiper-button-next"></div>
+                                    <div class="swiper__nav--btn swiper-button-prev"></div>
+                                </div>
+                            </div>
+                </div>
+            </section>
+            <!-- End product section -->
+            <!--  -->
+
+
+            <!-- Start product section -->
+            <section class="product__section section--padding pt-0" style="">
                 <div class="container-fluid">
                     <div class="section__heading text-center mb-35">
                         <h2 class="section__heading--maintitle">New Products</h2>
