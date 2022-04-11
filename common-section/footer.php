@@ -130,7 +130,10 @@
   
   <script src="assets/js/plugins/swiper-bundle.min.js"></script>
   <script src="assets/js/plugins/glightbox.min.js"></script>
-
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
   <!-- Customscript js -->
   <script src="assets/js/script.js"></script>
 </body>
